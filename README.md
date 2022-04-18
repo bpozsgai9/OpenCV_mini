@@ -2,3 +2,5 @@
 
 ######  Alacsonyszíntű képfeldolgozás
 ###### (A kurzus Python OpenCv témaköréhez tartozó gyakorló feladatok)
+
+2021.12.01.
